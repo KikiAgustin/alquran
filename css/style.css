@@ -1,0 +1,11 @@
+.card-surat {
+    transition: 0.8s;
+}
+.card-surat:hover {
+    background-color: #a7b0a9;
+    cursor: pointer;
+}
+
+.audio-tag {
+    display: none;
+}
